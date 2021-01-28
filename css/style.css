@@ -1,0 +1,23 @@
+#drop{
+    display: block;
+}
+body{
+    background-color: forestgreen;
+   
+}
+input[type="email"]{
+margin-left: 24px;
+margin-top: 10px;
+}
+.container{
+    width: 30%;
+    height: 500px;
+    margin: 80px auto;
+    background-color: grey;
+}
+form{
+    margin:20px;
+}
+select{
+    margin-top: 10px;
+}
